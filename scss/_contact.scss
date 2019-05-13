@@ -52,3 +52,12 @@
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid $gray-200;
 }
+
+.contact_links{
+  display: flex;
+  justify-content: center;
+  a{
+    color: #18bc9c;
+    border-color: #18bc9c;
+  }
+}
