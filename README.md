@@ -1,4 +1,4 @@
 # Portfolio Site 
-## [Live Site](https://thiscord.herokuapp.com/#/)
+## [Live Site](https://kamanfi.github.io/kamanfi/)
 
 
